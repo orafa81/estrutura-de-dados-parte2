@@ -1,3 +1,5 @@
+package Iterator;
+
 public class ListaEncadeada {
     private No cabeca;
 

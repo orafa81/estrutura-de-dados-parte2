@@ -1,3 +1,5 @@
+package Iterator;
+
 public class InteradorLista {
     private No atual;
 
