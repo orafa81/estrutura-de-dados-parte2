@@ -6,7 +6,7 @@ public class Main {
             lista.adicionar("Primeiro");
             lista.adicionar("Segundo");
             lista.adicionar("Terceiro");
-            
+
             InteradorLista iterador = lista.iterador();
 
             while (iterador.temProximo()) {
